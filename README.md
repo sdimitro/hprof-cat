@@ -1,6 +1,9 @@
 # hprof-cat
 Experimental Analyzer For Java HPROFs
 
+*NOTE*: As of April 28 2021 this repo has been deprecated and archived. If you are curious
+on the progress for this look at [libjdb](https://github.com/jgallag88/libjdb).
+
 ## Description and Goals
 
 This is more of an experiment and should not be used seriously. My objectives here are
